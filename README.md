@@ -5,7 +5,7 @@
 ---
 ##### About Me
 - 💻 **Check out my projects**: [My GitHub Repositories](https://github.com/Theophelus?tab=repositories)  
-- 🌱 **Currently exploring**: TypeScript, Docker, and Python  
+- 🌱 **Currently exploring**: TypeScript, Playwright and Docker  
 - 💬 **Ask me about**: API Testing, Browser Automation, and Quality Assurance
 ----
 ##### Let's Connect!
